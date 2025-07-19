@@ -1,102 +1,87 @@
+<p align="center">
+  <img src="./banner.png?raw=true" alt="Banner personal de yanditv" />
+</p>
+<!-- Encabezado visual -->
+<h1 align="center" style="font-weight: 800; font-size: 2rem;"> 👋 ¡Hola! Soy Junior</h1>
+<p align="center" style="max-width: 600px; margin: auto;">
+  Full-Stack Developer · UI/UX Designer · Software Architect  
+  Desde Ecuador, creando experiencias digitales modernas.
+</p>
+
 ---
-layout: elegant
-theme: dark-radical
+## 🚀 Sobre mí
+
+Soy **Junior Wachapa** y desarrollo aplicaciones con foco en diseño, arquitectura limpia y experiencia de usuario.
+
+- 🔥 Full-stack Developer (Web y Móvil)
+- 📱 Apps modernas con Flutter y React
+- 🧠 UI/UX orientado a usabilidad y estética
+- 💻 Apasionado por el código limpio y el diseño útil
+
 ---
 
-<!-- Hero Section -->
-<div class="hero" align="center">
-  <img src="./banner.png?raw=true" alt="Banner personal de yanditv" width="100%"/>
-  
-  <h1>👋 ¡Hola! Soy Junior</h1>
-  <p class="subtitle">
-    Full-Stack Developer · UI/UX Designer · Software Architect<br>
-    Desde Ecuador, creando experiencias digitales modernas.
-  </p>
+## 🛠 Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,figma,nodejs,express,ts,js,mongodb,postgresql,firebase,docker,git&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yanditv&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanditv&layout=compact&theme=radical&hide_border=true" />
+
+<!-- GitHub Trophy (opcional) -->
+<img src="https://github-profile-trophy.vercel.app/?username=yanditv&theme=radical&no-frame=true&row=1&column=7" />
+
 </div>
 
-<!-- Main Content Grid -->
-<div class="grid-container">
+---
 
-  <!-- About Section -->
-  <section class="card about">
-    ## 🚀 Sobre mí
-    
-    Soy **Junior Wachapa** y desarrollo aplicaciones con foco en:
-    - 🔥 Full-stack Developer (Web y Móvil)
-    - 📱 Apps modernas con Flutter y React
-    - 🎨 UI/UX orientado a usabilidad y estética
-    - ⚡ Código limpio y arquitectura escalable
-  </section>
+## 🧠 Proyectos destacados
 
-  <!-- Tech Stack -->
-  <section class="card stack">
-    ## 🛠 Stack Tecnológico
-    
-    <div class="skill-grid">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind,figma" alt="Frontend skills"/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" alt="Backend skills"/>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,docker,git" alt="DB & DevOps"/>
-    </div>
-  </section>
+| Proyecto          | Descripción                                 | Stack                  |
+|------------------|----------------------------------------------|------------------------|
+| **DenunciasWeb** | Plataforma ciudadana para reportes ciudadanos| MongoDB, Express, JS   |
+| **ServiceAppAPI**| Backend REST para gestión de servicios       | Node.js, MongoDB       |
+| **App Flutter**  | App de tareas UI responsiva                  | Flutter, Firebase      |
 
-  <!-- Stats -->
-  <section class="card stats">
-    ## 📊 GitHub Analytics
-    
-    <div class="stats-grid">
-      <img src="https://github-readme-stats.vercel.app/api?username=yanditv&show_icons=true&theme=radical" alt="Stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanditv&layout=compact&theme=radical" alt="Top Langs"/>
-    </div>
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanditv&theme=radical" alt="Streak" width="100%"/>
-  </section>
+🔗 [Ver más proyectos »](https://github.com/yanditv?tab=repositories)
 
-  <!-- Projects -->
-  <section class="card projects">
-    ## 🧠 Proyectos destacados
-    
-    | Proyecto          | Descripción                          | Tech Stack            |
-    |-------------------|--------------------------------------|-----------------------|
-    | **DenunciasWeb**  | Plataforma de reportes ciudadanos    | MERN Stack            |
-    | **ServiceAppAPI** | Backend para gestión de servicios    | Node.js + MongoDB     |
-    | **TaskFlow**      | App de productividad con Flutter     | Flutter + Firebase    |
-    
-    <div class="cta">
-      [Ver todos los proyectos →](https://github.com/yanditv?tab=repositories)
-    </div>
-  </section>
+---
 
-  <!-- Design Philosophy -->
-  <section class="card design">
-    ## 🎨 Filosofía de Diseño
-    
-    > "Diseño centrado en humanos, no solo en píxeles"
-    
-    - 🖌️ **Sistemas de diseño**: Material 3 + Tailwind
-    - 🎯 **Enfoque**: Mobile-first + Responsive
-    - ⚡ **Herramientas**: Figma, Adobe XD, Protopie
-    - ♿ **Prioridades**: Accesibilidad + Performance
-  </section>
+## 🎨 Diseño UI/UX
 
-  <!-- Contact -->
-  <section class="card contact">
-    ## 📫 ¿Trabajamos juntos?
-    
-    <div class="contact-links">
-      [<img src="icons/website.svg" width="20"/> Portfolio](https://yanditv.com) · 
-      [<img src="icons/mail.svg" width="20"/> Email](mailto:juniorwachapa@gmail.com) · 
-      [<img src="icons/linkedin.svg" width="20"/> LinkedIn](https://linkedin.com/in/yanditv)
-    </div>
-    
-    <div class="availability">
-      <small>Disponible para proyectos freelance y colaboraciones</small>
-    </div>
-  </section>
-</div>
+> Diseño centrado en las personas, no solo en la apariencia.
 
-<!-- Footer -->
-<footer>
-  <p align="center">
-    Hecho con ❤️ por yanditv · Actualizado en 2023
-  </p>
-</footer>
+- Diseño **responsive-first**
+- Prototipado rápido con **Figma**
+- Experiencia con **Material 3**, **Tailwind**, y microinteracciones
+- Accesibilidad, escalabilidad y performance visual
+
+---
+
+## 🧭 Métricas adicionales (Metrics)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanditv&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanditv&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://yanditv.com">Sitio web</a> • 
+  <a href="mailto:juniorwachapa@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/yanditv">LinkedIn</a> • 
+  <a href="https://wa.me/593...">WhatsApp</a>
+</p>
